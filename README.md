@@ -6,7 +6,7 @@
 - Concurrent multi-user support
 - Automatic time synchronization over NTP
 - Time zone selection
-- 24h on/off schedulerig
+- 24h on/off scheduler
 - 4-channel relay switch
 
 ## Manual relay control
